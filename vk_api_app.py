@@ -77,4 +77,4 @@ if __name__ == '__main__':
     # get_user_status(session, user_id)
     # get_friends_status(session, user_id)
     # get_message_history_with_user(session, some_user_id)
-    send_message(session, user_id=237250070)
+    send_message(session, user_id=some_user_id)
